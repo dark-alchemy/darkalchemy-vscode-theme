@@ -10,16 +10,18 @@
       <img src='./images/DA-Blue.png'/>
       <h5>DA-Blue</h5>
     </td>
-    <td>
+  </tr>
+  <tr>
+     <td>
       <img src='./images/DA-Midnight.png'/><br>
       <h5>DA-Midnight</h5>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src='./images/DA-Black.png'/>
       <h5>DA-Black</h5>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src='./images/DA-Arctic.png'/><br>
       <h5>DA-Arctic</h5>
