@@ -2,10 +2,10 @@
   "name": "darkalchemy",
   "displayName": "Dark Alchemy Theme",
   "description": "The ultimate collection of Dark themes for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "publisher": "Dark Alchemy",
   "license": "MIT",
-  "icon": "images/icon.png",
+  "icon": "images/icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/dark-alchemy/darkalchemy"
