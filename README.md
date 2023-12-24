@@ -3,27 +3,27 @@
 <table  style="width:100%">
   <tr>
     <td>
-      <img src='./images/DA-Default.png'/><br>
+      <img src='https://raw.githubusercontent.com/dark-alchemy/darkalchemy-vscode-theme/main/images/DA-Default.png'/><br>
       <h5>DA-Default</h5>
     </td>
     <td>
-      <img src='./images/DA-Blue.png'/>
+      <img src='https://raw.githubusercontent.com/dark-alchemy/darkalchemy-vscode-theme/main/images/DA-Blue.png'/>
       <h5>DA-Blue</h5>
     </td>
   </tr>
   <tr>
      <td>
-      <img src='./images/DA-Midnight.png'/><br>
+      <img src='https://raw.githubusercontent.com/dark-alchemy/darkalchemy-vscode-theme/main/images/DA-Midnight.png'/><br>
       <h5>DA-Midnight</h5>
     </td>
     <td>
-      <img src='./images/DA-Black.png'/>
+      <img src='https://raw.githubusercontent.com/dark-alchemy/darkalchemy-vscode-theme/main/images/DA-Black.png'/>
       <h5>DA-Black</h5>
     </td>
   </tr>
   <tr>
     <td>
-      <img src='./images/DA-Arctic.png'/><br>
+      <img src='https://raw.githubusercontent.com/dark-alchemy/darkalchemy-vscode-theme/main/images/DA-Arctic.png'/><br>
       <h5>DA-Arctic</h5>
     </td>
     <td>
@@ -35,7 +35,7 @@
 
 ## Install
 
-1. Visit the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=darkalchemy.darkalchemy).
+1. Visit the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=DarkAlchemy.darkalchemy).
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstartedthemes#_selecting-the-color-theme).The GitHub themes aim to align with the themes available in [github.com's settings](https://github.com/settings/appearance):
     - `DarkAlchemy - Default`
