@@ -27,7 +27,7 @@
       <h5>DA-Arctic</h5>
     </td>
     <td>
-      <img src='./images/DA-Arctic-Ruled.png'/>
+      <img src='https://raw.githubusercontent.com/dark-alchemy/darkalchemy-vscode-theme/main/images/DA-Arctic-Ruled.png'/>
       <h5>DA-Arctic-Ruled</h5>
     </td>
   </tr>
