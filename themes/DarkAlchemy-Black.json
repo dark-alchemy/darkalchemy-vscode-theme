@@ -1865,6 +1865,7 @@
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#080808",
     "activityBarBadge.background": "#82aaff",
+    "activityBar.border": "#2c2e30",
 
     ///////////////    Side Bar    ////////////////
 
@@ -1872,9 +1873,9 @@
     "sideBar.foreground": "#ffe7ca",
     "sideBarSectionHeader.background": "#08080800",
     "sideBarSectionHeader.foreground": "#cccccc",
-    "sideBarSectionHeader.border": "#cccccc00",
+    "sideBarSectionHeader.border": "#2c2e30",
     "sideBarTitle.foreground": "#bbbbbb",
-    "sideBar.border": "#cccccc38",
+    "sideBar.border": "#2c2e30",
 
     ////////////////    List    ////////////////
     
@@ -1896,6 +1897,7 @@
     ////////////////   Status Bar   ///////////////
 
     "statusBar.foreground": "#ffffff",
+    "statusBar.border":"#2c2e30",
     "statusBar.background": "#080808",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBar.debuggingBackground": "#cc6633",
@@ -1908,7 +1910,7 @@
     "titleBar.activeForeground": "#cccccc",
     "titleBar.inactiveBackground": "#3c3c3c99",
     "titleBar.inactiveForeground": "#cccccc99",
-    "titleBar.border": "#08080800",
+    "titleBar.border": "#2c2e30",
     "menubar.selectionForeground": "#cccccc",
     "menubar.selectionBackground": "#ffffff1a",
     "menu.foreground": "#cccccc",
@@ -1917,7 +1919,7 @@
     "menu.selectionBackground": "#302c43",
     "menu.selectionBorder": "#08080800",
     "menu.separatorBackground": "#bbbbbb24",
-    "menu.border": "#08080800",
+    "menu.border": "#2c2e30",
 
     ////////////////    Button    ////////////////
 
@@ -2008,7 +2010,7 @@
     ////////////////      Panel Bar     ///////////////
     
     "panel.background": "#080808",
-    "panel.border": "#80808059",
+    "panel.border": "#2c2e30",
     "panelTitle.activeBorder": "#e7e7e7",
     "panelTitle.activeForeground": "#e7e7e7",
     "panelTitle.inactiveForeground": "#e7e7e799",
@@ -2016,7 +2018,7 @@
     ////////////////        Badge       ///////////////
     
     "badge.background": "#82aaff",
-    "badge.foreground": "#ffffff",
+    "badge.foreground": "#080808",
     
     ////////////////      Terminal      ///////////////
 
@@ -2024,7 +2026,7 @@
     "terminal.selectionBackground": "#ffffff40",
     "terminalCursor.background": "#0087FF",
     "terminalCursor.foreground": "#ffffff",
-    "terminal.border": "#80808059",
+    "terminal.border": "#2c2e30",
     "terminal.ansiBlack": "#080808",
     "terminal.ansiBlue": "#00bff8",
     "terminal.ansiBrightBlack": "#cfcfcf",
@@ -2052,7 +2054,7 @@
     ////////////////      Tabs      ////////////////
 
     "tab.activeForeground": "#ffffff",
-    "tab.border": "#08080800",
+    "tab.border": "#2c2e30",
     "tab.activeBackground": "#141414",
     "tab.activeBorder": "#82aaff",
     "tab.activeBorderTop": "#08080800",
@@ -2067,7 +2069,7 @@
     "pickerGroup.border": "#3f3f4600",
     "pickerGroup.foreground": "#3794ff",
     "debugToolBar.background": "#00060f",
-    "debugToolBar.border": "#47474700",
+    "debugToolBar.border": "#2c2e30",
 
     ////////////////    Notification    //////////////
     
@@ -2080,7 +2082,7 @@
     "notificationCenter.border": "#474747",
     "notificationCenterHeader.foreground": "#cccccc",
     "notificationCenterHeader.background": "#303031",
-    "notifications.border": "#303031",
+    "notifications.border": "#2c2e30",
 
     ////////////////    Git    //////////////
 
