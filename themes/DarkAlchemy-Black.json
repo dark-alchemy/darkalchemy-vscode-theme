@@ -1878,12 +1878,12 @@
 
     ////////////////    List    ////////////////
     
-    "list.inactiveSelectionBackground": "#82aaff",
+    "list.inactiveSelectionBackground": "#094771",
     "list.inactiveSelectionForeground": "#000000",
-    "list.hoverBackground": "#82aaff",
-    "list.hoverForeground": "#000000",
-    "list.activeSelectionBackground": "#82aaff",
-    "list.activeSelectionForeground": "#000000",
+    "list.hoverBackground": "#09477160",
+    "list.hoverForeground": "#fff",
+    "list.activeSelectionBackground": "#094771",
+    "list.activeSelectionForeground": "#fff",
     "tree.indentGuidesStroke": "#d2dffc2d",
     "list.dropBackground": "#00050d",
     "list.highlightForeground": "#0097fb",
