@@ -1903,7 +1903,7 @@
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.noFolderBackground": "#68217a",
-    "statusBarItem.remoteBackground": "#000308",
+    "statusBarItem.remoteBackground": "#ffcb8b",
     "titleBar.activeBackground": "#192330",
     "titleBar.activeForeground": "#cccccc",
     "titleBar.inactiveBackground": "#3c3c3c99",
